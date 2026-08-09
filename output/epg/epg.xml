@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv date="20260809091939 +0800">
+<tv date="20260809092656 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -25010,5 +25010,155 @@
 	</programme>
 	<programme channel="经典电影" start="20260809231200 +0800" stop="20260809235900 +0800">
 		<title lang="zh">侵入者</title>
+	</programme>
+	<channel id="CHC高清电影">
+		<display-name lang="zh">CHC高清电影</display-name>
+	</channel>
+	<programme channel="CHC高清电影" start="20260809000000 +0800" stop="20260809003600 +0800">
+		<title lang="zh">霍比特人-史矛革之战</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809003600 +0800" stop="20260809020600 +0800">
+		<title lang="zh">逐梦弯道</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809020600 +0800" stop="20260809040000 +0800">
+		<title lang="zh">缝纫机乐队</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809040000 +0800" stop="20260809052600 +0800">
+		<title lang="zh">缝纫机乐队</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809052600 +0800" stop="20260809060000 +0800">
+		<title lang="zh">缝纫机乐队</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809060000 +0800" stop="20260809073000 +0800">
+		<title lang="zh">妈妈咪鸭</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809073000 +0800" stop="20260809080000 +0800">
+		<title lang="zh">挡马夺刀</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809080000 +0800" stop="20260809090700 +0800">
+		<title lang="zh">挡马夺刀</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809090700 +0800" stop="20260809110800 +0800">
+		<title lang="zh">生无可恋的奥托</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809110800 +0800" stop="20260809124800 +0800">
+		<title lang="zh">王伯祥</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809124800 +0800" stop="20260809141900 +0800">
+		<title lang="zh">秀水河子歼灭战</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809141900 +0800" stop="20260809155200 +0800">
+		<title lang="zh">捍战Ⅱ</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809155200 +0800" stop="20260809171500 +0800">
+		<title lang="zh">美国空姐</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809171500 +0800" stop="20260809184500 +0800">
+		<title lang="zh">英雄之战</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809184500 +0800" stop="20260809203100 +0800">
+		<title lang="zh">钢铁意志</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809203100 +0800" stop="20260809220000 +0800">
+		<title lang="zh">母夜叉与花魁女</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809220000 +0800" stop="20260809233100 +0800">
+		<title lang="zh">冰雪大围捕</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260809233100 +0800" stop="20260810000000 +0800">
+		<title lang="zh">重返·狼群</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260810000000 +0800" stop="20260810010800 +0800">
+		<title lang="zh">重返·狼群</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260810010800 +0800" stop="20260810040000 +0800">
+		<title lang="zh">深井</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260810040000 +0800" stop="20260810042800 +0800">
+		<title lang="zh">深井</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260810042800 +0800" stop="20260810060000 +0800">
+		<title lang="zh">深井</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260810060000 +0800" stop="20260810074400 +0800">
+		<title lang="zh">医者仁心</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260810074400 +0800" stop="20260810080000 +0800">
+		<title lang="zh">爱在百鸟衣</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260810080000 +0800" stop="20260810091600 +0800">
+		<title lang="zh">爱在百鸟衣</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260810091600 +0800" stop="20260810112700 +0800">
+		<title lang="zh">加勒比海盗-惊涛怪浪</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260810112700 +0800" stop="20260810131800 +0800">
+		<title lang="zh">那一夜,我给你开过车</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260810131800 +0800" stop="20260810152100 +0800">
+		<title lang="zh">蛛丝马迹</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260810152100 +0800" stop="20260810170100 +0800">
+		<title lang="zh">战火中的芭蕾</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260810170100 +0800" stop="20260810183100 +0800">
+		<title lang="zh">黄大年</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260810183100 +0800" stop="20260810200500 +0800">
+		<title lang="zh">农民院士</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260810200500 +0800" stop="20260810220000 +0800">
+		<title lang="zh">峰爆</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260810220000 +0800" stop="20260810232800 +0800">
+		<title lang="zh">松江往事</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260810232800 +0800" stop="20260811000000 +0800">
+		<title lang="zh">庖丁传奇之烟柳风荷</title>
+	</programme>
+	<channel id="梨园">
+		<display-name lang="zh">梨园</display-name>
+	</channel>
+	<programme channel="梨园" start="20260809000500 +0800" stop="20260809022000 +0800">
+		<title lang="zh">京剧:霸王别姬,洛神-梅兰芳</title>
+	</programme>
+	<programme channel="梨园" start="20260809022000 +0800" stop="20260809032600 +0800">
+		<title lang="zh">岳飞传</title>
+	</programme>
+	<programme channel="梨园" start="20260809032600 +0800" stop="20260809054000 +0800">
+		<title lang="zh">豫剧:香囊记-汪荃珍</title>
+	</programme>
+	<programme channel="梨园" start="20260809054000 +0800" stop="20260809075400 +0800">
+		<title lang="zh">曲剧:天青梦-朱旭光</title>
+	</programme>
+	<programme channel="梨园" start="20260809075400 +0800" stop="20260809100800 +0800">
+		<title lang="zh">豫剧:香囊记-汪荃珍</title>
+	</programme>
+	<programme channel="梨园" start="20260809100800 +0800" stop="20260809122300 +0800">
+		<title lang="zh">京剧:霸王别姬-梅兰芳</title>
+	</programme>
+	<programme channel="梨园" start="20260809122300 +0800" stop="20260809132300 +0800">
+		<title lang="zh">刘公传奇</title>
+	</programme>
+	<programme channel="梨园" start="20260809132300 +0800" stop="20260809153700 +0800">
+		<title lang="zh">曲剧:天青梦-朱旭光</title>
+	</programme>
+	<programme channel="梨园" start="20260809153700 +0800" stop="20260809175200 +0800">
+		<title lang="zh">河北梆子:窦娥冤-张莉英</title>
+	</programme>
+	<programme channel="梨园" start="20260809175200 +0800" stop="20260809181200 +0800">
+		<title lang="zh">唱段欣赏</title>
+	</programme>
+	<programme channel="梨园" start="20260809181200 +0800" stop="20260809202600 +0800">
+		<title lang="zh">四平调:小包公-拜金荣</title>
+	</programme>
+	<programme channel="梨园" start="20260809202600 +0800" stop="20260809224000 +0800">
+		<title lang="zh">曲剧:梁山伯与祝英台-牛艳荣等</title>
+	</programme>
+	<programme channel="梨园" start="20260809224000 +0800" stop="20260809234000 +0800">
+		<title lang="zh">刘公传奇</title>
+	</programme>
+	<programme channel="梨园" start="20260809234000 +0800" stop="20260810000500 +0800">
+		<title lang="zh">唱段欣赏</title>
 	</programme>
 </tv>
