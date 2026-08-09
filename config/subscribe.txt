@@ -3,8 +3,10 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-
-
+https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/5d5d5f5f5f/0904/refs/heads/main/zubo_all.m3u
 
 
 [WHITELIST]
