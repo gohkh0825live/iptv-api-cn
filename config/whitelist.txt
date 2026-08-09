@@ -5,7 +5,25 @@
 # Filling in the channel name will directly retain the record to the final result of the channel, such as: CCTV-1, interface address;
 # If the channel name is not filled in, the address will be added to the results of all channels, with multiple records entered on new lines.
 
+东方卫视,javascript://https://js.gohkh9.qzz.io/kankan.js?id=dfws
+上海新闻综合,javascript://https://js.gohkh9.qzz.io/kankan.js?id=shxwzh
+第一财经,javascript://https://js.gohkh9.qzz.io/kankan.js?id=dycj
+新纪实,javascript://https://js.gohkh9.qzz.io/kankan.js?id=jsrw
+五星体育,javascript://https://js.gohkh9.qzz.io/kankan.js?id=wxty
+上海都市,javascript://https://js.gohkh9.qzz.io/kankan.js?id=shds
+哈哈炫动,javascript://https://js.gohkh9.qzz.io/kankan.js?id=hhxd
+魔都眼,javascript://https://js.gohkh9.qzz.io/kankan.js?id=mdy
 
+北京卫视,javascript://https://js.gohkh9.qzz.io/Beijing_App.js?id=bjws
+BRTV文艺,javascript://https://js.gohkh9.qzz.io/Beijing_App.js?id=bjwy
+BRTV纪实科教,javascript://https://js.gohkh9.qzz.io/Beijing_App.js?id=bjjskj
+BRTV影视,javascript://https://js.gohkh9.qzz.io/Beijing_App.js?id=bjys
+BRTV财经,javascript://https://js.gohkh9.qzz.io/Beijing_App.js?id=bjcj
+BRTV生活,javascript://https://js.gohkh9.qzz.io/Beijing_App.js?id=bjsh
+BRTV新闻,javascript://https://js.gohkh9.qzz.io/Beijing_App.js?id=bjxw
+卡酷少儿,javascript://https://js.gohkh9.qzz.io/Beijing_App.js?id=bjkk
+北京卫视4K,javascript://https://js.gohkh9.qzz.io/Beijing_App.js?id=bjws4k
+BRTV体育休闲,javascript://https://js.gohkh9.qzz.io/Beijing_App.js?id=bjty
 
 
 
