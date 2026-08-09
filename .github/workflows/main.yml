@@ -10,7 +10,10 @@ name: 'Update schedule'
 # If scheduled execution is required, use other deployment methods.
 
 on:
-  workflow_dispatch:
+  schedule:
+    # 每天北京时间凌晨 04:35 自动运行一次 (UTC 20:35)
+    - cron: '35 20 * * *'
+  workflow_dispatch: # 保留手动触发按钮
 
 jobs:
   push:
